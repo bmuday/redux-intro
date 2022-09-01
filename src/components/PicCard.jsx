@@ -16,7 +16,7 @@ const PicCard = ({ pic }) => {
       photo: pic.photo,
     };
 
-    axios.put("http://localhost:3000/pictures/" + pic.id, data);
+    axios.put("http://localhost:5000/pictures/" + pic.id, data);
   };
 
   return (

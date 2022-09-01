@@ -8,7 +8,7 @@ const App = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:3000/pictures")
+      .get("http://localhost:5000/pictures")
       .then((res) => setPicsData(res.data));
   }, []);
 
