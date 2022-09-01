@@ -1,52 +1,52 @@
 {
   "pictures": [
     {
-      "artist": "Paulin Kamu",
-      "year": "2021",
-      "photo": "https://picsum.photos/400/352",
-      "id": 1
-    },
-    {
-      "artist": "Kamau",
-      "year": "2005",
-      "photo": "https://picsum.photos/400/484",
-      "id": 3
-    },
-    {
-      "artist": "Samedixs",
-      "year": "2010",
-      "photo": "https://picsum.photos/400/396",
-      "id": 4
-    },
-    {
-      "artist": "Misan Harriman",
-      "year": "1999",
-      "photo": "https://picsum.photos/400/338",
-      "id": 5
-    },
-    {
-      "artist": "Takeshi Nagano",
-      "year": "2017",
-      "photo": "https://picsum.photos/400/499",
-      "id": 6
-    },
-    {
-      "artist": "Neil Burnell",
-      "year": "2012",
-      "photo": "https://picsum.photos/400/443",
-      "id": 7
-    },
-    {
       "artist": "Jidhun",
       "year": "2009",
-      "photo": "https://picsum.photos/400/364",
+      "photo": "https://picsum.photos/200/207",
       "id": 8
     },
     {
       "artist": "Martin Grange",
       "year": "2021",
-      "photo": "https://picsum.photos/400/470",
+      "photo": "https://picsum.photos/200/208",
       "id": 9
+    },
+    {
+      "artist": "Baptiste MUDAY",
+      "year": "1994",
+      "photo": "https://picsum.photos/200",
+      "id": 10
+    },
+    {
+      "artist": "Soly",
+      "year": "1998",
+      "photo": "https://picsum.photos/200",
+      "id": 11
+    },
+    {
+      "artist": "Nato",
+      "year": "2002",
+      "photo": "https://picsum.photos/200/324",
+      "id": 12
+    },
+    {
+      "artist": "Blandine ",
+      "year": "1964",
+      "photo": "https://picsum.photos/200/352",
+      "id": 13
+    },
+    {
+      "artist": "Laurent",
+      "year": "1962",
+      "photo": "https://picsum.photos/200/387",
+      "id": 14
+    },
+    {
+      "artist": "Sophie",
+      "year": "2022",
+      "photo": "https://picsum.photos/200/307",
+      "id": 15
     }
   ]
 }
